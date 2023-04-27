@@ -16,12 +16,12 @@ Note: the data acquisition program runs using Python and the Spyder IDE in tande
 1.  Run “PPMS_Load_Instruments.py” by clicking on the tab, and then hitting the aquamarine play button on the top toolbar. A small pop-up titled “RoyLab - Load Instruments” should appear on the screen after a few seconds.
 
 2.  To load the instruments you want to use:
-  - check the box on the left side
-  - select the instrument you want to load from the drop-down menu. 
-  - name this instrument something useful for you to refer to.
-  - enter its GPIB address. The GPIB address can be found by clicking “See available resources” on the bottom left corner of the window. This will open another pop-up that will show the instruments connected to the bus, as well as their GPIB addresses. 
-  - use the drop-down menu on the right side to select the variables you want to record. 
-  - repeat this process for every instrument you are planning on using. 
+    - Check the box on the left side
+    - Select the instrument you want to load from the drop-down menu. 
+    - Name this instrument something useful for you to refer to.
+    - Enter its GPIB address. The GPIB address can be found by clicking “See available resources” on the bottom left corner of the window. This will open another pop-up that will show the instruments connected to the bus, as well as their GPIB addresses. 
+    - Use the drop-down menu on the right side to select the variables you want to record. 
+    - Repeat this process for every instrument you are planning on using. 
 
   Note: This pop-up starts with enough lines for five instruments. If you are using more than five instruments, you can add additional lines by clicking “Add Instrument”.
 
