@@ -7,7 +7,7 @@ Note: the data acquisition program runs using Python and the Spyder IDE in tande
 
 1.  Open MultiVu in non-administrator mode (just click on the task-bar icon). This is important for proper communication between the Python code and the MutliVu software.
 2.  Click the task-bar icon bar that looks like a command terminal called “Anaconda Prompt”. This opens a terminal window that allows you to access conda environments and run Python programs.
-3.  Type “spyder” and hit enter:
+3.  Type “spyder” and hit enter.
 4.  Open the script for the measurement program "PPMS_Measurement _Program.py".
 5.  Open the script for loading instruments "PPMS_Load_Instruments.py".
 
