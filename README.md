@@ -45,10 +45,9 @@ The measurement program is really useful for connecting the external hardware wi
     - Middle middle box: the main plot that is populated by your data. By right-clicking on the plot, you can modify some plot parameters.
     - Top right box: a second set of control functions for select instruments. Depending on the instrument, you can use this box to control your instrument’s output and measurement parameters. Instruments controlled with this box include the Keithley 2450.
     - Middle right box: used to set up measurements that involve sweeping a single independent variable. You can select the variable you want to sweep in the “Instr to sweep” box and the corresponding start and stop values. You can also set the number of points used in the sweep (# points), the time delay between each new data point (Wait time (s)), the number of individual sweeps to perform (repeat), the sweep direction (raster vs. unidirectional), and the number of points used to ramp back to the starting value. To start the sweep, simply click “Start Loop” after selecting all of your parameters. 
+    - Bottom right box: sets the data acquisition sample time and has buttons for starting and stopping a measurement.
 
 Note: the loop can be started before OR after your start recording the measurement. If you start the loop before you start recording measurements, the loop will actually start as soon as you start recording.
-
-    - Bottom right box: sets the data acquisition sample time and has buttons for starting and stopping a measurement.
 
 For most use cases, the Python data acquisition software is intended to be a passive measurement program (i.e. it simply records data without controlling external parameters). This means a typical measurement sequence would look something like this:
 1.  Load the instruments that would like to use using “PPMS_Load_Instruments.py”.
