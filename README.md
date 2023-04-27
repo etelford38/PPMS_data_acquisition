@@ -1,5 +1,6 @@
 # PPMS_data_acquisition
 Python software for simultaneously interfacing with a PPMS and external measurement hardware.
+Written by Maelle Kapfer (mak2294@columbia.edu) and modified by Jordan Pack (j.pack@columbia.edu), Evan Telford (ejt2133@columbia.edu), and Christie Koay (csk2172@columbia.edu).
 
 # Starting Spyder
 Note: the data acquisition program runs using Python and the Spyder IDE in tandem with MultiVu.
