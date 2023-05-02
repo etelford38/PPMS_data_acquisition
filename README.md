@@ -15,7 +15,7 @@ Note: the data acquisition program runs using Python and the Spyder IDE in tande
 
 1.  Run “PPMS_Load_Instruments.py” by clicking on the tab, and then hitting the aquamarine play button on the top toolbar. A small pop-up titled “RoyLab - Load Instruments” should appear on the screen after a few seconds.
 
-2.  To load the instruments you want to use:
+2.  To load the instruments you want to:
     - Check the box on the left side
     - Select the instrument you want to load from the drop-down menu. 
     - Name this instrument something useful for you to refer to.
