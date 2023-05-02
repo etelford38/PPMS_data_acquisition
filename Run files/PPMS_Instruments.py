@@ -1,4 +1,7 @@
-# from test_instr import TestInstr
+"""
+#Authors: Written by Maelle Kapfer (mak2294@columbia.edu) and modified by Jordan Pack (j.pack@columbia.edu), Evan Telford (ejt2133@columbia.edu), and Christie Koay (csk2172@columbia.edu)
+#Latest-update: April 27 2023
+"""
 from PPMS_Instrument_Classes import SR860_inst, K2450_inst, K6221_inst, K6517B_inst, Dynacool_inst
 
 class Instruments:
