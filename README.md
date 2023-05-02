@@ -27,7 +27,7 @@ Note: the data acquisition program runs using Python and the Spyder IDE in tande
 
 Note: If the desired instruments do not appear under “See available resources”, double check that the BUS is on and that all the desired instruments are turned on and connected to the BUS with GPIB cables.	
 
-Second Note: The Dynacool PPMS has no GPIB address. When you add it, you can leave the GPIB address section blank. The program connects to the Dynacool using a server. To properly connect, you need to run the measurement program on the same computer as MultiVu AND the address defined in "PPMS_Instrument_Classes.py" must be updated according to you're system.
+Second Note: The Dynacool PPMS has no GPIB address. When you add it, you can leave the GPIB address section blank. The program connects to the Dynacool using a server. To properly connect, you need to run the measurement program on the same computer as MultiVu AND the address defined in "PPMS_Instrument_Classes.py" must be updated according to your system.
 
 3.  Once you have entered the information for your instruments, click “Test Connections”. This will make sure that the program is communicating properly with the instruments you have loaded. 
 
