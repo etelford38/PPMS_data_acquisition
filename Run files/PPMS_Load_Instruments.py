@@ -1,3 +1,7 @@
+"""
+#Authors: Written by Maelle Kapfer (mak2294@columbia.edu) and modified by Jordan Pack (j.pack@columbia.edu), Evan Telford (ejt2133@columbia.edu), and Christie Koay (csk2172@columbia.edu)
+#Latest-update: April 27 2023
+"""
 from PyQt5.QtWidgets import (QApplication,  QDialog, 
                              QGridLayout, QVBoxLayout,  QLabel, 
                              QPushButton, QStyleFactory,  
